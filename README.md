@@ -1,6 +1,8 @@
 # JavaFX-Tetris
 Tetris made in Java with JavaFX for a school project.
 
+## To compile the project you may need to change configuration options in you IDE according to original JavaFX documentation (https://openjfx.io/openjfx-docs/#install-javafx)
+
 ## Rules
 C'mon we all know the rules of tetris.
 
